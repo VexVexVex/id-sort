@@ -1,7 +1,7 @@
 {
   "name": "id-sort",
-  "version": "1.0.0",
-  "description": "Implements a blazingly fast O(1) sorting algorithm",
+  "version": "1.0.2",
+  "description": "Implements a blazingly fast O(Inf) sorting algorithm",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
